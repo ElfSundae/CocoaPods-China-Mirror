@@ -1,6 +1,6 @@
 # CocoaPods CDN 中国镜像源
 
-本站是 [CocoaPods Master Repo](https://github.com/CocoaPods/Specs) CDN 源的中国镜像，全量包含 pods 索引和 podspec 文件。
+本站是 [CocoaPods Master Repo](https://github.com/CocoaPods/Specs) CDN 源的中国镜像，全量同步 pods 索引和 podspec 文件。
 
 在 `Podfile` 中添加本镜像源：
 
